@@ -1,0 +1,10 @@
+{
+  "name": "com.h-f.unity.network.memory",
+  "version": "0.1.0",
+  "displayName": "Shared PLC",
+  "unity": "2023.2",
+  "author": {
+    "name": "H&F",
+    "email": "maeda-shi@h-f.co.jp"
+  }
+}
