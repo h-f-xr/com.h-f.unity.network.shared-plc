@@ -1,6 +1,6 @@
 {
-  "name": "com.h-f.unity.network.memory",
-  "version": "0.1.0",
+  "name": "com.h-f.unity.network.shared-plc",
+  "version": "0.1.1",
   "displayName": "Shared PLC",
   "unity": "2023.2",
   "author": {
